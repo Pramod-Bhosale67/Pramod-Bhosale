@@ -20,10 +20,12 @@ ALL ABOUT ME
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/pramodbhosale_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pramodbhosale_7" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/runtime error" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="runtime error" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/pramod67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pramod67" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pramodbhosale67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pramodbhosale67" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pramod-bhosale-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pramod-bhosale-/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/pramodbhosale_7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pramodbhosale_7/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucsev_d1g_0vilof0xpqd2xg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucsev_d1g_0vilof0xpqd2xg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/pbhosale6716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/pbhosale6716" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/pramod67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/pramod67" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/pramodbhosale67/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pramodbhosale67/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,3 +36,4 @@ ALL ABOUT ME
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pramod-bhosale67&show_icons=true&locale=en" alt="pramod-bhosale67" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pramod-bhosale67&" alt="pramod-bhosale67" /></p>
+
